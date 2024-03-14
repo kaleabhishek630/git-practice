@@ -6,6 +6,14 @@ public class Program2 {
 		
 		String a="Abhishek";
 		System.out.println("Name :"+ a);
+		
+		int n=4;
+		
+		for(int i=0;i<=n;i++) {
+			
+			System.out.println(i);
+		}
+		
 
 	}
 
